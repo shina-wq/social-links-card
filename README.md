@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [GitHub URL](https://github.com/shina-wq/social-links-card)
+- Live Site URL: [Live site URL](https://shina-wq.github.io/social-links-card/)
 
 ## My process
 
